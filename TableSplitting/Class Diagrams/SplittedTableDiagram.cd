@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TableSplitting.Models.TableSplitting.Customer">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAQAAAAAAAACAABAAAAAAAA=</HashCode>
+      <FileName>Models\TableSplitting\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableSplitting.Models.TableSplitting.CustomerAddress">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAMAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TableSplitting\CustomerAddress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
